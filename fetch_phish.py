@@ -4,9 +4,9 @@ import time
 import os
 
 # --- CONFIGURACIÓN ---
-# 0197bccf-6046-728f-981a-c94e6406f27d
+# TU CLAVE API VA AQUI
 # La puedes obtener en: https://urlscan.io/user/profile/
-URLSCAN_API_KEY = "0197bccf-6046-728f-981a-c94e6406f27d"
+URLSCAN_API_KEY = "TU CLAVE API VA AQUI"
 
 # Fuente de URLs de phishing (no requiere clave)
 OPENPHISH_FEED_URL = "https://openphish.com/feed.txt"
