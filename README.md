@@ -1,4 +1,4 @@
-# Proyecto de Dataset de Phishing
+# Proyecto de Dataset de Phishing by Rebeca Romcy
 
 Este proyecto está diseñado para recolectar, analizar y etiquetar URLs de phishing para crear un dataset de alta calidad. El objetivo final es utilizar este dataset para entrenar modelos de IA capaces de detectar tácticas de ingeniería social en texto.
 
