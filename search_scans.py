@@ -7,7 +7,7 @@ import os
 
 # --- CONFIGURACIÓN ---
 # Tu clave de API de URLScan.io
-URLSCAN_API_KEY = "0197bccf-6046-728f-981a-c94e6406f27d"
+URLSCAN_API_KEY = "TU CLAVE API VA AQUI"
 
 # Archivo para guardar nuestro dataset
 DATASET_FILE = "urlscan_phishing_dataset.jsonl"
@@ -48,7 +48,7 @@ def fetch_scan_result(result_api_url):
 
 def main():
     """Orquesta la búsqueda y guardado de datos de phishing."""
-    if URLSCAN_API_KEY == "0197bccf-6046-728f-981a-c94e6406f27d":
+    if URLSCAN_API_KEY == "TU CLAVE API VA AQUI":
         print("¡ERROR! Por favor, edita el archivo 'search_scans.py' y añade tu clave de API de URLScan.io.")
         return
 
